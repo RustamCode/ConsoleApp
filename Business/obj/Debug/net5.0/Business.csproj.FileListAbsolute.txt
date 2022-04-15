@@ -1,0 +1,5 @@
+C:\Users\rustamea\Desktop\ChemistsApp\Business\obj\Debug\net5.0\Business.csproj.AssemblyReference.cache
+C:\Users\rustamea\Desktop\ChemistsApp\Business\obj\Debug\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rustamea\Desktop\ChemistsApp\Business\obj\Debug\net5.0\Business.AssemblyInfoInputs.cache
+C:\Users\rustamea\Desktop\ChemistsApp\Business\obj\Debug\net5.0\Business.AssemblyInfo.cs
+C:\Users\rustamea\Desktop\ChemistsApp\Business\obj\Debug\net5.0\Business.csproj.CoreCompileInputs.cache

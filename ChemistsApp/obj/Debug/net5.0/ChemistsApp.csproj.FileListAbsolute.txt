@@ -1,0 +1,16 @@
+C:\Users\rustamea\Desktop\ChemistsApp\ChemistsApp\bin\Debug\net5.0\ChemistsApp.exe
+C:\Users\rustamea\Desktop\ChemistsApp\ChemistsApp\bin\Debug\net5.0\ChemistsApp.deps.json
+C:\Users\rustamea\Desktop\ChemistsApp\ChemistsApp\bin\Debug\net5.0\ChemistsApp.runtimeconfig.json
+C:\Users\rustamea\Desktop\ChemistsApp\ChemistsApp\bin\Debug\net5.0\ChemistsApp.runtimeconfig.dev.json
+C:\Users\rustamea\Desktop\ChemistsApp\ChemistsApp\bin\Debug\net5.0\ChemistsApp.dll
+C:\Users\rustamea\Desktop\ChemistsApp\ChemistsApp\bin\Debug\net5.0\ref\ChemistsApp.dll
+C:\Users\rustamea\Desktop\ChemistsApp\ChemistsApp\bin\Debug\net5.0\ChemistsApp.pdb
+C:\Users\rustamea\Desktop\ChemistsApp\ChemistsApp\obj\Debug\net5.0\ChemistsApp.csproj.AssemblyReference.cache
+C:\Users\rustamea\Desktop\ChemistsApp\ChemistsApp\obj\Debug\net5.0\ChemistsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rustamea\Desktop\ChemistsApp\ChemistsApp\obj\Debug\net5.0\ChemistsApp.AssemblyInfoInputs.cache
+C:\Users\rustamea\Desktop\ChemistsApp\ChemistsApp\obj\Debug\net5.0\ChemistsApp.AssemblyInfo.cs
+C:\Users\rustamea\Desktop\ChemistsApp\ChemistsApp\obj\Debug\net5.0\ChemistsApp.csproj.CoreCompileInputs.cache
+C:\Users\rustamea\Desktop\ChemistsApp\ChemistsApp\obj\Debug\net5.0\ChemistsApp.dll
+C:\Users\rustamea\Desktop\ChemistsApp\ChemistsApp\obj\Debug\net5.0\ref\ChemistsApp.dll
+C:\Users\rustamea\Desktop\ChemistsApp\ChemistsApp\obj\Debug\net5.0\ChemistsApp.pdb
+C:\Users\rustamea\Desktop\ChemistsApp\ChemistsApp\obj\Debug\net5.0\ChemistsApp.genruntimeconfig.cache
