@@ -7,15 +7,15 @@ using DataAccess;
 using DataAccess.Interfaces;
 using Entities.Models;
 
-namespace Business.Repository
+namespace DataAccess.Repository
 {
-    public class MedicineRepository : IRepository<Medicine>
+    public class BaseRepository:IRepository<Base>
     {
-        public bool Create(Medicine entity)
+        public bool Create(Base entity)
         {
             try
             {
-                DataContext.Medications.Add(entity);
+                DataContext.Bases.Add(entity);
                 return true;
             }
             catch (Exception)
@@ -25,11 +25,11 @@ namespace Business.Repository
             }
         }
 
-        public bool Delete(Medicine entity)
+        public bool Delete(Base entity)
         {
             try
             {
-                DataContext.Medications.Remove(entity);
+                DataContext.Bases.Remove(entity);
                 return true;
             }
             catch (Exception)
@@ -39,11 +39,11 @@ namespace Business.Repository
             }
         }
 
-        public List<Medicine> GetAll(Predicate<Medicine> filter = null)
+        public List<Base> GetAll(Predicate<Base> filter = null)
         {
             try
             {
-                return DataContext.Medications.FindAll(filter);
+                return DataContext.Bases.FindAll(filter);
             }
             catch (Exception)
             {
@@ -52,11 +52,12 @@ namespace Business.Repository
             }
         }
 
-        public Medicine GetOne(Predicate<Medicine> filter = null)
+        public Base GetOne(Predicate<Base> filter = null)
         {
             try
             {
-                return DataContext.Medications.Find(filter);
+                return filter == null ? DataContext.Bases[0] :
+                 DataContext.Bases.Find(filter);
             }
             catch (Exception)
             {
@@ -65,16 +66,16 @@ namespace Business.Repository
             }
         }
 
-        public bool Update(Medicine entity)
+        public bool Update(Base entity)
         {
             try
             {
-                Medicine isExist = GetOne(m => m.ID == entity.ID);
+                Base isExist = GetOne(m => m.ID == entity.ID);
                 return true;
             }
             catch (Exception)
             {
-                 
+
                 throw;
             }
         }
