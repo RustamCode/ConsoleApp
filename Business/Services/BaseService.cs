@@ -13,9 +13,9 @@ namespace Business.Services
     {
         public static int Count { get; set; }
         private BaseRepository _baseRepository;
-        public BaseService(BaseRepository baseRepository)
+        public BaseService()
         {
-            _baseRepository = baseRepository;
+            _baseRepository =new BaseRepository();
         }
         public Base Create(Base Base)
         {
@@ -32,12 +32,17 @@ namespace Business.Services
 
         public Base GetBase(string name)
         {
-            throw new NotImplementedException();
+            return _baseRepository.GetOne();
         }
 
         public Base Update(int ID, Base Base)
         {
             throw new NotImplementedException();
+        }
+
+        public List<Base> GetAll()
+        {
+           return _baseRepository.GetAll();
         }
     }
 }

@@ -3,18 +3,20 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32126.315
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChemistsApp", "ChemistsApp\ChemistsApp.csproj", "{556D1830-7024-4B1D-831C-191FA39F4923}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChemistsApp", "ChemistsApp\ChemistsApp.csproj", "{556D1830-7024-4B1D-831C-191FA39F4923}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{73737175-FB1F-4708-BB7B-107C768AE567}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "Entities\Entities.csproj", "{73737175-FB1F-4708-BB7B-107C768AE567}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E301D55A-96A9-48A6-AAFE-AAE34B5CAC25}"
 	ProjectSection(SolutionItems) = preProject
 		.editorconfig = .editorconfig
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{B0564DF9-E086-46AC-97AA-08FD5CED0161}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccess", "DataAccess\DataAccess.csproj", "{B0564DF9-E086-46AC-97AA-08FD5CED0161}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{E872A6CF-CCC7-4406-BE29-9BEBCF3ADC78}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Business", "Business\Business.csproj", "{E872A6CF-CCC7-4406-BE29-9BEBCF3ADC78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utilities", "Utilities\Utilities.csproj", "{79870533-B79D-4A22-8D8B-1639CC6D682E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -38,6 +40,10 @@ Global
 		{E872A6CF-CCC7-4406-BE29-9BEBCF3ADC78}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E872A6CF-CCC7-4406-BE29-9BEBCF3ADC78}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E872A6CF-CCC7-4406-BE29-9BEBCF3ADC78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79870533-B79D-4A22-8D8B-1639CC6D682E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79870533-B79D-4A22-8D8B-1639CC6D682E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79870533-B79D-4A22-8D8B-1639CC6D682E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79870533-B79D-4A22-8D8B-1639CC6D682E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

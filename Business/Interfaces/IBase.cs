@@ -13,6 +13,7 @@ namespace Business.Interfaces
         Base Update(int ID, Base Base);
         Base Delete(int ID);
         Base GetBase(string name);
+        List<Base> GetAll();
 
 
     }

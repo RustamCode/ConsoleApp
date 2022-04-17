@@ -43,6 +43,7 @@ namespace DataAccess.Repository
         {
             try
             {
+               
                 return DataContext.Bases.FindAll(filter);
             }
             catch (Exception)

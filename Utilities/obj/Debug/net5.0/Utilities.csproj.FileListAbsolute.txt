@@ -1,0 +1,11 @@
+C:\Users\rustamea\Desktop\ChemistsApp\Utilities\bin\Debug\net5.0\Utilities.deps.json
+C:\Users\rustamea\Desktop\ChemistsApp\Utilities\bin\Debug\net5.0\Utilities.dll
+C:\Users\rustamea\Desktop\ChemistsApp\Utilities\bin\Debug\net5.0\ref\Utilities.dll
+C:\Users\rustamea\Desktop\ChemistsApp\Utilities\bin\Debug\net5.0\Utilities.pdb
+C:\Users\rustamea\Desktop\ChemistsApp\Utilities\obj\Debug\net5.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rustamea\Desktop\ChemistsApp\Utilities\obj\Debug\net5.0\Utilities.AssemblyInfoInputs.cache
+C:\Users\rustamea\Desktop\ChemistsApp\Utilities\obj\Debug\net5.0\Utilities.AssemblyInfo.cs
+C:\Users\rustamea\Desktop\ChemistsApp\Utilities\obj\Debug\net5.0\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\rustamea\Desktop\ChemistsApp\Utilities\obj\Debug\net5.0\Utilities.dll
+C:\Users\rustamea\Desktop\ChemistsApp\Utilities\obj\Debug\net5.0\ref\Utilities.dll
+C:\Users\rustamea\Desktop\ChemistsApp\Utilities\obj\Debug\net5.0\Utilities.pdb
